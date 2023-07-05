@@ -1,7 +1,7 @@
 # machine-learning intermediate
 
 
-To quickly improve the quality of your models, you're in the right place! In this course, you will accelerate your machine-learning expertise by learning how to:
+To quickly improve the quality of your models, you're in the right place! you will accelerate your machine-learning expertise by learning how to:
 
 - tackle data types often found in real-world datasets (missing values, categorical variables),
 - design pipelines to improve the quality of your machine-learning code,
