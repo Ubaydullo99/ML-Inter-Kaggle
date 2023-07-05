@@ -1,4 +1,4 @@
-# machine-learning-inter-Kaggle
+# machine-learning intermediate
 
 
 To quickly improve the quality of your models, you're in the right place! In this course, you will accelerate your machine-learning expertise by learning how to:
@@ -7,4 +7,4 @@ To quickly improve the quality of your models, you're in the right place! In thi
 - design pipelines to improve the quality of your machine-learning code,
 - use advanced techniques for model validation (cross-validation),
 - build state-of-the-art models that are widely used to win Kaggle competitions (XGBoost), and
-- avoid common and important data science mistakes (leakage).
+- avoid common and essential data science mistakes (leakage).
